@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.semoncat" >
+
+    <!-- TODO RETIRAR ?
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21" /> -->
+
+</manifest>
